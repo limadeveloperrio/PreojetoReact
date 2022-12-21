@@ -1,0 +1,90 @@
+{
+  "projects": [
+    {
+      "name": "Projeto de Infra",
+      "budget": "10000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 7020,
+      "services": [
+        {
+          "name": "Contratar um DevOps",
+          "cost": "5000",
+          "description": "DevOps para criar projeto na AWS",
+          "id": "79475653-9d65-4eb0-921b-9b12b6c6be52"
+        },
+        {
+          "cost": "2020",
+          "name": "Bruno Lima",
+          "description": "omionijiuujiujiu",
+          "id": "5c1f83f1-ce05-483a-abc5-a6b602f40248"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "Desenvolvimento do novo site",
+      "budget": "3000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 3
+    },
+    {
+      "name": "Bruno Lima",
+      "budget": "20000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 4
+    },
+    {
+      "name": "Bruno Lima",
+      "budget": "4585",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 5
+    },
+    {
+      "name": "Bruno Lima",
+      "budget": "100000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 6
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
